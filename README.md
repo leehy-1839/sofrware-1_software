@@ -1,7 +1,23 @@
 # sofrware-1_software
-## 과제 결과물위치
-- 품질 측정 문서 : /doc/quality.md
-# 과제2_프로젝트 관리 계획서
-## 프로젝트 주제 : 공강 스터디 매칭 서비스
+## Mini Drive
+### 저장소 소개
+이 저장소는 조직 내 협업을 위한 클라우드 파일 공유 시스템인 Mini Drive 프로젝트의 문서를 정리한 레퍼지토리입니다.
 
 ---
+
+# 과제 결과물 위치
+- 프로젝트 정의서: doc/project_definition.md
+- 대상 시스템 품질 요소 추정하기: doc/quality_attributes.md
+- 프로젝트 관리 계획서: doc/project_management_plan.md
+- 요구사항 정의서: doc/requirements.md
+
+---
+
+# GitHub 파일 구조
+MiniDrive/
+├── README.md
+└── doc/
+    ├── project_definition.md
+    ├── quality_attributes.md
+    ├── project_management_plan.md
+    └── requirements.md
