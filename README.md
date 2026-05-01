@@ -14,6 +14,8 @@
 ---
 
 # GitHub 파일 구조
+
+```text
 MiniDrive/
 ├── README.md
 └── doc/
