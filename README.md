@@ -1,6 +1,5 @@
-# sofrware-1_software
-## Mini Drive
-### 저장소 소개
+# Mini Drive
+## 저장소 소개
 이 저장소는 조직 저의 협업을 위한 클라우드 파일 공유 시스템인 Mini Drive 프로젝트의 문서를 정리한 레퍼지토리입니다.
 
 ---
@@ -16,7 +15,7 @@
 # GitHub 파일 구조
 
 ```text
-MiniDrive/
+SE/
 ├── README.md
 └── doc/
     ├── project_definition.md
